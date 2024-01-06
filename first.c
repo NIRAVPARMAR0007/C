@@ -1,6 +1,5 @@
 #include<stdio.h>
 /*
-dfdfdf
 void main(){
     float side;
     printf("Enter value of square side : ");
